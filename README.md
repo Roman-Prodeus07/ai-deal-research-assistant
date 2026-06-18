@@ -4,7 +4,7 @@ AI Deal Research Assistant is a lightweight Python and Streamlit MVP for organis
 
 The project is designed as an internal-tool style prototype for business research, workflow automation, and investment/origination-style use cases.
 
-## Demo screenshot
+## Demo Screenshot
 
 ![AI Deal Research Assistant demo](assets/app_screenshot.png)
 
